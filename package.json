@@ -12,6 +12,7 @@
   "author": "Paul Kinlan",
   "license": "Apache-2",
   "dependencies": {
+    "now": "^10.1.4",
     "topicdeck": "*"
   }
 }

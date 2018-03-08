@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "An RSS Deck of our GDEs",
   "main": "index.js",
-  "scripts": {  
+  "scripts": {
     "alias": "now alias --token=$NOW_TOKEN",
     "deploy": "NOW_DEPLOY_URL=$(now --token $NOW_TOKEN --npm)",
     "now-start": "node .",
@@ -13,6 +13,6 @@
   "license": "Apache-2",
   "dependencies": {
     "now": "^10.1.4",
-    "topicdeck": "*"
+    "topicdeck": "0.0.5"
   }
 }

@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "description": "An RSS Deck of our GDEs",
   "main": "index.js",
-  "scripts": {
+  "scripts": {  
+    "alias": "now alias --token=$NOW_TOKEN",
+    "deploy": "NOW_DEPLOY_URL=$(now --token $NOW_TOKEN --npm)",
+    "now-start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Paul Kinlan",
   "license": "Apache-2",
   "dependencies": {
     "topicdeck": "*"

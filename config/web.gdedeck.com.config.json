@@ -259,6 +259,11 @@
       "name": "Felipe N. Moura",
       "href": "https://felipenmoura.com/",
       "feedUrl": "https://felipenmoura.com/feed"
+    },
+    {
+      "name": "Chrome DevRel",
+      "href": "https://devwebfeed.appspot.com",
+      "feedUrl": "https://devwebfeed.appspot.com/posts/?format=rss"
     }
   ]
 }

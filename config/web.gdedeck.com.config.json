@@ -261,6 +261,12 @@
       "feedUrl": "https://felipenmoura.com/feed"
     },
     {
+      "name": "Shai Reznik",
+      "href": "https://medium.com/@shairez",
+      "feedUrl": "https://medium.com/feed/@shairez"
+    },
+    
+    {
       "name": "Chrome DevRel",
       "href": "https://devwebfeed.appspot.com",
       "feedUrl": "https://devwebfeed.appspot.com/posts/?format=rss"

@@ -25,6 +25,11 @@
       "name": "IoT GDE's",
       "href": "https://iot.gdedeck.com",
       "feedUrl": "https://iot.gdedeck.com/all.rss"
+    },
+    {
+      "name": "Japan GDE's",
+      "href": "https://japan.gdedeck.com",
+      "feedUrl": "https://japan.gdedeck.com/all.rss"
     }
   ]
 }

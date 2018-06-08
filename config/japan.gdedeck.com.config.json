@@ -12,25 +12,80 @@
     },
     "columns": [
       {
-        "name": "Yuki Anzai",
+        "name": "Yuki Anzai (Android)",
         "href": "https://y-anz-m.blogspot.com/",
         "feedUrl": "https://y-anz-m.blogspot.com/feeds/posts/default"
       },
       {
-        "name": "Shingo Ishimura",
-        "href": "https://qiita.com/sinmetal/",
-        "feedUrl": "https://qiita.com/sinmetal/feed"
+        "name": "Daichi Furiya (Android)",
+        "href": "https://speakerdeck.com/wasabeef",
+        "feedUrl": "https://speakerdeck.com/wasabeef.atom"
       },
       {
-        "name": "Kazuhiro Furuhata",
+        "name": "Shuhei Fujiwara (ML)",
+        "href": "http://shuheif.hatenablog.com/",
+        "feedUrl": "http://shuheif.hatenablog.com/feed"
+      },
+      {
+        "name": "Jxck (Web)",
+        "href": "https://blog.jxck.io/",
+        "feedUrl": "https://blog.jxck.io/feeds/atom.xml"
+      },
+      {
+        "name": "Masataka Yakura (Web)",
+        "href": "https://myakura.hatenablog.com/",
+        "feedUrl": "https://myakura.hatenablog.com/rss"
+      },
+      {
+        "name": "Yasushi Ando (Chrome)",
+        "href": "http://d.hatena.ne.jp/technohippy/",
+        "feedUrl": "http://d.hatena.ne.jp/technohippy/rss"
+      },
+      {
+        "name": "Yoichiro Tanaka (Chrome, AoG)",
+        "href": "https://www.eisbahn.jp/yoichiro/",
+        "feedUrl": "https://www.eisbahn.jp/yoichiro/feed.xml"
+      },
+      {
+        "name": "Keisuke Oohashi (Cloud)",
+        "href": "https://qiita.com/soundTricker",
+        "feedUrl": "https://qiita.com/soundTricker/feed.atom"
+      },
+      {
+        "name": "Singo Ishimura (Cloud)",
+        "href": "https://qiita.com/sinmetal",
+        "feedUrl": "https://qiita.com/sinmetal/feed.atom"
+      },
+      {
+        "name": "Atsushi Nakamura (Cloud)",
+        "href": "https://qiita.com/atusi",
+        "feedUrl": "https://qiita.com/atusi/feed.atom"
+      },
+      {
+        "name": "Satoru Nakamura (GCP)",
+        "href": "https://qiita.com/satoru_mag",
+        "feedUrl": "https://qiita.com/satoru_mag/feed.atom"
+      },
+      {
+        "name": "Tetsuhiro Ueda (Cloud, Flutter)",
+        "href": "https://qiita.com/najeira",
+        "feedUrl": "https://qiita.com/najeira/feed.atom"
+      },
+      {
+        "name": "Shinichi Ogawa (GAE, Apps)",
         "href": "https://shin1ogawa.tumblr.com/",
         "feedUrl": "https://shin1ogawa.tumblr.com/rss"
       },
       {
-        "name": "Shuhei Fujiwara",
-        "href": "http://shuheif.hatenablog.com/",
-        "feedUrl": "http://shuheif.hatenablog.com/feed"
-      }
+        "name": "Yukio Andoh (Maps)",
+        "href": "http://www.andoh.org/",
+        "feedUrl": "http://www.andoh.org/feeds/posts/default?alt=rss"
+      },
+      {
+        "name": "Nobuya Sato (Product Design)",
+        "href": "https://www.slideshare.net/nobsato",
+        "feedUrl": "https://www.slideshare.net/rss/user/nobsato"
+      },
     ]
   }
   

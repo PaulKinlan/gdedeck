@@ -4,7 +4,11 @@
   "origin": "https://web.gdedeck.com",
   "feedUrl": "https://web.gdedeck.com/all.rss",
   "theme": {
-    "backgroundColor": "#1976d2"
+    "backgroundColor": "#1976d2",
+    "themeColor": "#1976d2"
+  },
+  "content": {
+    "allTitle": "All Web GDE's"
   },
   "site": {
     "googleAnalytics": "UA-111516552-1",

@@ -4,7 +4,11 @@
   "feedUrl": "https://android.gdedeck.com/all.rss",
   "description": "The latest news and updates from the Google Developer Expert for Android program.", 
   "theme": {
-    "backgroundColor": "#A4C639"
+    "backgroundColor": "#A4C639",
+    "themeColor": "#A4C639"
+  },
+  "content": {
+    "allTitle": "All Android GDE's"
   },
   "site": {
     "googleAnalytics": "UA-111516552-2",

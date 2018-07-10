@@ -5,6 +5,7 @@ const feedFetcher = new FeedFetcher(fetchInterval, __dirname + '/config/');
 
 const server = new Server({
   assetPathBase: `node_modules/topicdeck/dist/server/`,
+  overridePathBase: `${__dirname}/`,
   dataPath: `${__dirname}/config/`
 }, feedFetcher);
 

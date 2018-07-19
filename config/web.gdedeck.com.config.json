@@ -279,6 +279,11 @@
       "name": "José M. Pérez",
       "href": "https://jmperezperez.com",
       "feedUrl": "https://jmperezperez.com/feed.xml"
+    },
+    {
+      "name": "Alex Castillo",
+      "href": "https://castillo.io",
+      "feedUrl": "https://castillo.io/?tag=GDE&format=rss"
     }
   ]
 }

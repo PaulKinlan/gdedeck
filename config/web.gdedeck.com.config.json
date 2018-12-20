@@ -269,9 +269,6 @@
       "href": "https://medium.com/@shairez",
       "feedUrl": "https://medium.com/feed/@shairez"
     },
-    
-
-
     {
       "name": "José M. Pérez",
       "href": "https://jmperezperez.com",
@@ -286,6 +283,11 @@
       "name": "Riza Fahmi",
       "href": "https://medium.com/@rizafahmi22",
       "feedUrl": "https://medium.com/feed/@rizafahmi22"
+    },
+    {
+      "name": "Henry Lim",
+      "href": "https://medium.com/@limhenry",
+      "feedUrl": "https://medium.com/feed/@limhenry"
     }
   ]
 }

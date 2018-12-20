@@ -269,9 +269,6 @@
       "href": "https://medium.com/@shairez",
       "feedUrl": "https://medium.com/feed/@shairez"
     },
-    
-
-
     {
       "name": "José M. Pérez",
       "href": "https://jmperezperez.com",
@@ -281,6 +278,11 @@
       "name": "Alex Castillo",
       "href": "https://castillo.io",
       "feedUrl": "https://castillo.io/?tag=GDE&format=rss"
+    },
+    {
+      "name": "Henry Lim",
+      "href": "https://medium.com/@limhenry",
+      "feedUrl": "https://medium.com/feed/@limhenry"
     }
   ]
 }

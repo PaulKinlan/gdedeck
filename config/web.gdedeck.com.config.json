@@ -281,6 +281,11 @@
       "name": "Alex Castillo",
       "href": "https://castillo.io",
       "feedUrl": "https://castillo.io/?tag=GDE&format=rss"
+    },
+    {
+      "name": "Riza Fahmi",
+      "href": "https://medium.com/@rizafahmi22",
+      "feedUrl": "https://medium.com/feed/@rizafahmi22"
     }
   ]
 }

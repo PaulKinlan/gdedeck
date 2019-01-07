@@ -288,6 +288,11 @@
       "name": "Henry Lim",
       "href": "https://medium.com/@limhenry",
       "feedUrl": "https://medium.com/feed/@limhenry"
+    },
+    {
+      "name": "Abraham Williams",
+      "href": "https://bendyworks.com/blog/authors/abraham_williams",
+      "feedUrl": "https://bendyworks.com/blog/authors/abraham_williams/rss.xml"
     }
   ]
 }

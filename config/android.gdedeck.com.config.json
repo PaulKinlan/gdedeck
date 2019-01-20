@@ -2,7 +2,7 @@
   "title": "Android GDE Deck",
   "origin": "https://android.gdedeck.com",
   "feedUrl": "https://android.gdedeck.com/all.rss",
-  "description": "The latest news and updates from the Google Developer Expert for Android program.", 
+  "description": "The latest news and updates from the Google Developer Expert for Android program.",
   "theme": {
     "backgroundColor": "#A4C639",
     "themeColor": "#A4C639"
@@ -234,6 +234,11 @@
       "name": "Danny Preussler",
       "href": "https://medium.com/@dpreussler",
       "feedUrl": "https://medium.com/feed/@dpreussler"
+    },
+    {
+      "name": "Mustafa Ali",
+      "href": "https://mustafaali.net",
+      "feedUrl": "https://mustafaali.net/atom.xml"
     }
   ]
 }

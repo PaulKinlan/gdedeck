@@ -191,6 +191,11 @@
       "feedUrl": "https://scottyab.com/feed/"
     },
     {
+      "name": "Somkiat Khitwongwattana",
+      "href": "https://akexorcist.com/",
+      "feedUrl": "http://www.akexorcist.com/feeds/comments/default?alt=rss"
+    },
+    {
       "name": "Ubiratan Soares",
       "href": "https://ubiratansoares.github.io/",
       "feedUrl": "https://ubiratansoares.github.io/index.xml"

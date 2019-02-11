@@ -298,6 +298,11 @@
       "name": "Abraham Williams",
       "href": "https://bendyworks.com/blog/authors/abraham_williams",
       "feedUrl": "https://bendyworks.com/blog/authors/abraham_williams/rss.xml"
+    },
+    {
+      "name": "Ado Kukic",
+      "href": "https://ado.xyz",
+      "feedUrl": "https://ado.xyz/index.xml"
     }
   ]
 }

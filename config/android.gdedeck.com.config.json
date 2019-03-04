@@ -2,7 +2,7 @@
   "title": "Android GDE Deck",
   "origin": "https://android.gdedeck.com",
   "feedUrl": "https://android.gdedeck.com/all.rss",
-  "description": "The latest news and updates from the Google Developer Expert for Android program.", 
+  "description": "The latest news and updates from the Google Developer Expert for Android program.",
   "theme": {
     "backgroundColor": "#A4C639",
     "themeColor": "#A4C639"
@@ -141,6 +141,11 @@
       "feedUrl": "http://www.mikewolfson.com/blog?format=RSS"
     },
     {
+      "name": "Mustafa Ali",
+      "href": "https://mustafaali.net",
+      "feedUrl": "https://mustafaali.net/atom.xml"
+    },
+    {
       "name": "Nelson Glauber",
       "href": "http://www.nglauber.com.br/",
       "feedUrl": "http://feeds.feedburner.com/DebugIsOnTheTable"
@@ -204,6 +209,21 @@
       "name": "Wiebe Elsinga",
       "href": "http://wiebe-elsinga.com/blog/news/",
       "feedUrl": "http://wiebe-elsinga.com/blog/news/feed/"
+    },
+    {
+      "name": "Danny Preussler",
+      "href": "https://medium.com/@dpreussler",
+      "feedUrl": "https://medium.com/feed/@dpreussler"
+    },
+    {
+      "name": "Paul Trebilcox-Ruiz",
+      "href": "https://medium.com/@paultr",
+      "feedUrl": "https://medium.com/feed/@paultr"
+    },
+    {
+      "name": "Sebastiano Gottardo",
+      "href": "https://medium.com/@rotxed",
+      "feedUrl": "https://medium.com/feed/@rotxed"
     },
     {
       "name": "Yuki Anzai",

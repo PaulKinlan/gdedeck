@@ -300,6 +300,11 @@
       "feedUrl": "https://bendyworks.com/blog/authors/abraham_williams/rss.xml"
     },
     {
+      "name": "Manjula Dube",
+      "href": "https://medium.com/@manjuladube",
+      "feedUrl": "https://medium.com/feed/@manjuladube"
+    },
+    {
       "name": "Ado Kukic",
       "href": "https://ado.xyz",
       "feedUrl": "https://ado.xyz/index.xml"

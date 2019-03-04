@@ -282,7 +282,7 @@
     {
       "name": "Hemanth HM",
       "href": "https://h3manth.com",
-      "feedUrl": "https://h3manth.com/rss.xml"
+      "feedUrl": "https://h3manth.com/new/atom.xml"
     },
     {
       "name": "Riza Fahmi",
@@ -298,6 +298,21 @@
       "name": "Abraham Williams",
       "href": "https://bendyworks.com/blog/authors/abraham_williams",
       "feedUrl": "https://bendyworks.com/blog/authors/abraham_williams/rss.xml"
+    },
+    {
+      "name": "Ado Kukic",
+      "href": "https://ado.xyz",
+      "feedUrl": "https://ado.xyz/index.xml"
+    },
+    {
+      "name": "Gil Fink",
+      "href": "https://medium.com/@gilfink",
+      "feedUrl": "https://medium.com/feed/@gilfink"
+    },
+    {
+      "name": "Aayush Arora",
+      "href": "https://angularboy.com",
+      "feedUrl": "https://medium.com/feed/@angularboy"
     }
   ]
 }

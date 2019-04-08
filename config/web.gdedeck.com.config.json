@@ -199,7 +199,8 @@
       "name": "Tim Ruffles",
       "href": "https://truffles.me.uk",
       "feedUrl": "https://truffles.me.uk/rss"
-    }, {
+    },
+    {
       "name": "Alain Chautard",
       "href": "https://blog.angulartraining.com",
       "feedUrl": "https://blog.angulartraining.com/feed"
@@ -333,6 +334,11 @@
       "name": "Christian Liebel",
       "href": "https://christianliebel.com",
       "feedUrl": "https://christianliebel.com/feed/"
+    },
+    {
+      "name": "Brian Love",
+      "href": "https://brianflove.com",
+      "feedUrl": "https://brianflove.com/feed.xml"
     }
   ]
 }

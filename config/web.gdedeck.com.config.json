@@ -339,6 +339,11 @@
       "name": "Brian Love",
       "href": "https://brianflove.com",
       "feedUrl": "https://brianflove.com/feed.xml"
+    },
+    {
+      "name": "George Mandis",
+      "href": "https://george.mand.is",
+      "feedUrl": "https://george.mand.is/feed.gde.xml"
     }
   ]
 }

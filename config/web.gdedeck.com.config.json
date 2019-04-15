@@ -339,6 +339,11 @@
       "name": "Brian Love",
       "href": "https://brianflove.com",
       "feedUrl": "https://brianflove.com/feed.xml"
+    },
+    {
+      "name": "David Pine",
+      "href": "https://davidpine.net/",
+      "feedUrl": "https://davidpine.net/index.xml"
     }
   ]
 }

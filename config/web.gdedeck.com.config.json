@@ -339,6 +339,11 @@
       "name": "Brian Love",
       "href": "https://brianflove.com",
       "feedUrl": "https://brianflove.com/feed.xml"
+    },
+    {
+      "name": "Ahmad Awais",
+      "href": "https://AhmadAwais.com",
+      "feedUrl": "https://ahmadawais.com/feed/"
     }
   ]
 }

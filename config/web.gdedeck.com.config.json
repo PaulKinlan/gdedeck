@@ -344,6 +344,11 @@
       "name": "Ahmad Awais",
       "href": "https://AhmadAwais.com",
       "feedUrl": "https://ahmadawais.com/feed/"
+    },
+    {
+      "name": "Younes Jaaidi",
+      "href": "https://medium.com/marmicode",
+      "feedUrl": "https://medium.com/feed/marmicode"
     }
   ]
 }
